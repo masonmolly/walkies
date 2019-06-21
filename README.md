@@ -13,6 +13,9 @@ My final year project, an infinite runner-style game, 'Walkies', made using Unit
 
 // HOW TO PLAY (Mac)
 
+- Download the repository
+- Extract files
+- walkies-master -> WalkiesBuilds -> MacBuild
 
 
 // HOW TO RUN IN UNITY
