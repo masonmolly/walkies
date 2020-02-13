@@ -1,5 +1,5 @@
 # walkies
-My final year project, an infinite runner-style game, 'Walkies', made using Unity, C#, and Blender. Script code can be found at Walkies -> Assets -> Scripts.
+My final year project, an infinite runner-style game, 'Walkies', made using Unity, C#, and Blender. Script code can be found at Walkies -> Assets -> Scripts. Read more at mollymason.me/projects/walkies
 
 ~ HOW TO PLAY (Windows) ~
 
