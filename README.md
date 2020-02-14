@@ -3,19 +3,23 @@ My final year project, an infinite runner-style game, 'Walkies', made using Unit
 
 ~ HOW TO PLAY (Windows) ~
 
-- Download the repository
-- Extract files
-- walkies-master -> Builds -> Windows -> Walkies.exe
+- Navigate to the 'Builds' folder in this repository
+- Go to the 'Windows.zip' file
+- Download the file
+- Extract files once downloaded
+- 'Windows' -> 'Walkies.exe'
 - If Windows SmartScreen pops up, click more info, and 'run anyway'
 - Change your graphics and resolution settings, if need be
-- Click play!
+- Play!
 
 
 ~ HOW TO PLAY (Mac) ~
 
-- Download the repository
-- Extract files
-- walkies-master -> Builds -> Mac
+- Navigate to the 'Builds' folder in this repository
+- Go to the 'Mac.zip' file
+- Download the file
+- Extract files once downloaded
+- Play!
 
 
 ~ HOW TO RUN IN UNITY ~
