@@ -1,24 +1,28 @@
 # walkies
-My final year project, an infinite runner-style game, 'Walkies', made using Unity, C#, and Blender. Script code can be found at Walkies -> Assets -> Scripts. Read more at mollymason.me/projects/walkies
+My final year project, an infinite runner-style game, 'Walkies', made using Unity, C#, and Blender. Script code can be found at Walkies -> Assets -> Scripts. 
 
-~ HOW TO PLAY (Windows) ~
+Read more at http://mollymason.me/projects/walkies
 
-- Download the repository
-- Extract files
-- walkies-master -> Builds -> Windows -> Walkies.exe
+## 🕹️ HOW TO PLAY
+*Windows*
+- Navigate to the 'Builds' folder in this repository
+- Go to the 'Windows.zip' file
+- Download the file
+- Extract files once downloaded
+- 'Windows' -> 'Walkies.exe'
 - If Windows SmartScreen pops up, click more info, and 'run anyway'
 - Change your graphics and resolution settings, if need be
-- Click play!
+- Play!
+
+*Mac*
+- Navigate to the 'Builds' folder in this repository
+- Go to the 'Mac.zip' file
+- Download the file
+- Extract files once downloaded
+- Play!
 
 
-~ HOW TO PLAY (Mac) ~
-
-- Download the repository
-- Extract files
-- walkies-master -> Builds -> Mac
-
-
-~ HOW TO RUN IN UNITY ~
+## 💻 HOW TO RUN IN UNITY
 
 - Download the repository
 - Extract files
