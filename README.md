@@ -10,15 +10,17 @@ Read more at http://mollymason.me/projects/walkies
 - Download the file
 - Extract files once downloaded
 - 'Windows' -> 'Walkies.exe'
-- If Windows SmartScreen pops up, click more info, and 'run anyway'
+- If Windows SmartScreen pops up, click more info -> 'Run anyway'
 - Change your graphics and resolution settings, if need be
 - Play!
 
 *Mac*
 - Navigate to the 'Builds' folder in this repository
-- Go to the 'Mac.zip' file
+- Go to the 'Mac.app.zip' file
 - Download the file
-- Extract files once downloaded
+- Load the .app
+- If security preferences prevent the application from running, control + click the application -> Click 'Open'
+- Change your graphics and resolution settings, if need be
 - Play!
 
 
